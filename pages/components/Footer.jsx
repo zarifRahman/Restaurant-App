@@ -3,7 +3,7 @@
 export const Footer = () => {
     return (
         <div>
-            Footer
+            footer
         </div>
     )
 }
